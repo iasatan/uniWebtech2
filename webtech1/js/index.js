@@ -2,22 +2,6 @@ function init() {
     $("#content").load("lorem.html");
 }
 
-$.fn.serializeObject = function () {
-    var o = {};
-    var a = this.serializeArray();
-    $.each(a, function () {
-        if (o[this.name] !== undefined) {
-            if (!o[this.name].push) {
-                o[this.name] = [o[this.name]];
-            }
-            o[this.name].push(this.value || '');
-        } else {
-            o[this.name] = this.value || '';
-        }
-    });
-    return o;
-};
-
 function loadAuthors() {
     $.getJSON('authors', function (data) {
         var table = $('<table id="authorsTable" border="1"></table>');

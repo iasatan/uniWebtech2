@@ -12,7 +12,7 @@ $(function () {
                 loadBooks();
             },
             error: function () {
-                alert("oops");
+                $("#error").show();
 
             }
         });
