@@ -4,5 +4,4 @@ function log(message){
     console.log(new Date()+": "+message);
 }
 
-module.exports.log=log;
-module.exports.github=url;
+module.exports=log;
