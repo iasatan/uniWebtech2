@@ -1,0 +1,24 @@
+{
+  "name": "npmexample",
+  "version": "1.0.2",
+  "description": "Example for webtech 2",
+  "main": "index.js",
+  "dependencies": {
+    "jquery": "^3.3.0",
+    "npm": "^6.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https:/github.com/iasatan/uniWebtech2"
+  },
+  "keywords": [
+    "example",
+    "university"
+  ],
+  "author": "iasatan",
+  "license": "ISC"
+}
