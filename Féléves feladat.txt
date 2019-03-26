@@ -1,0 +1,30 @@
+Féléves feladat:
+Backend: NodeJS, Express, MongoDB
+Frontend: Bootstrap, Vue.js
+
+Téma:
+Online könyvesbolt
+
+Szükséges funkciók:
+-Regisztráció, Bejelentkezés, Kijelentkezés, Felhasználói adatok módosítása
+-Könyvek listázása/böngészése
+-Keresés a könyvre szerző vagy cím alapján
+-Könyv vásárlása ha lehetséges(van készleten, van elég egyenleg)
+
+Felhasználó adatai:
+-név
+-jelszó
+-email
+-kor
+-lakcím
+-egyenleg
+
+Könyv adatai:
+-isbn
+-szerző
+-cím
+-kiadás év
+-ár
+-db
+-kép
+-leírás
