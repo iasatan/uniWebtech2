@@ -1,9 +1,8 @@
 <template>
     <div>
-        <h1>Todos</h1>
         <div v-bind:key="todo.id" v-for="todo in todos" class="list-group">
             <h3>
-                <Todo v-bind:todo="todo"/>
+                <Todo v-bind:todo="todo" v-on:del-todo="$emit('del-todo', todo.id)"/>
             </h3>
         </div>
     </div>
