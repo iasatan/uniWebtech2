@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6d3b941d-afd5-43d8-98f1-e1ddfa0a189b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Bootstrap/.idea/saveactions_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bootstrap/bootstrap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fullStack/server/public/css/app.a059f26b.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fullStack/server/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fullStack/server/public/img/logo.82b9c7a5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fullStack/server/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fullStack/server/public/js/app.1db5bc06.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fullStack/server/public/js/app.1db5bc06.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fullStack/server/public/js/chunk-vendors.0c5c9cd7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fullStack/server/public/js/chunk-vendors.0c5c9cd7.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExpressDemo/.idea/ExpressDemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExpressDemo/.idea/ExpressDemo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExpressDemo/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExpressDemo/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExpressDemo/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExpressDemo/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExpressDemo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExpressDemo/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExpressDemo/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExpressDemo/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExpressDemo/.idea/mongoSettings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExpressDemo/.idea/mongoSettings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExpressDemo/.idea/saveactions_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExpressDemo/.idea/saveactions_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExpressDemo/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExpressDemo/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExpressDemo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExpressDemo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExpressDemo/Webtech 3, óra.js" beforeDir="false" afterPath="$PROJECT_DIR$/../ExpressDemo/Webtech 3, óra.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExpressDemo/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../ExpressDemo/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExpressDemo/members.js" beforeDir="false" afterPath="$PROJECT_DIR$/../ExpressDemo/members.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExpressDemo/middleware/api/members.js" beforeDir="false" afterPath="$PROJECT_DIR$/../ExpressDemo/middleware/api/members.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExpressDemo/middleware/logger.js" beforeDir="false" afterPath="$PROJECT_DIR$/../ExpressDemo/middleware/logger.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExpressDemo/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ExpressDemo/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExpressDemo/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ExpressDemo/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExpressDemo/public/asd.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ExpressDemo/public/asd.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExpressDemo/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../ExpressDemo/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Féléves feladat.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Féléves feladat.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeExample/.idea/NodeExample.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../NodeExample/.idea/NodeExample.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeExample/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NodeExample/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeExample/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NodeExample/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeExample/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NodeExample/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeExample/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NodeExample/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeExample/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NodeExample/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeExample/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NodeExample/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeExample/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../NodeExample/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeExample/logger.js" beforeDir="false" afterPath="$PROJECT_DIR$/../NodeExample/logger.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NodeExample/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../NodeExample/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TodoBackend/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../TodoBackend/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TodoBackend/.idea/TodoBackend.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../TodoBackend/.idea/TodoBackend.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TodoBackend/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TodoBackend/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TodoBackend/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TodoBackend/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TodoBackend/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TodoBackend/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TodoBackend/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TodoBackend/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TodoBackend/.idea/saveactions_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TodoBackend/.idea/saveactions_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TodoBackend/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TodoBackend/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TodoBackend/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TodoBackend/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TodoBackend/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../TodoBackend/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TodoBackend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TodoBackend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TodoBackend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TodoBackend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullStack/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../fullStack/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullStack/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fullStack/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullStack/.idea/fullStack.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../fullStack/.idea/fullStack.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullStack/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fullStack/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullStack/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fullStack/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullStack/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fullStack/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullStack/.idea/saveactions_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fullStack/.idea/saveactions_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullStack/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fullStack/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullStack/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../fullStack/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullStack/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../fullStack/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullStack/server/api/posts.js" beforeDir="false" afterPath="$PROJECT_DIR$/../fullStack/server/api/posts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullStack/server/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../fullStack/server/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstackDemo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstackDemo/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstackDemo/.idea/fullstackDemo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstackDemo/.idea/jsLibraryMappings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstackDemo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstackDemo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstackDemo/.idea/saveactions_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstackDemo/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstackDemo/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstackDemo/client/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstackDemo/client/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstackDemo/client/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstackDemo/client/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstackDemo/client/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstackDemo/client/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstackDemo/client/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstackDemo/client/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstackDemo/client/src/PostService.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstackDemo/client/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstackDemo/client/src/components/PostComponent.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstackDemo/client/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstackDemo/client/vue.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstackDemo/client/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstackDemo/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstackDemo/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstackDemo/server/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstackDemo/server/public/css/app.73f41219.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstackDemo/server/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstackDemo/server/public/img/logo.82b9c7a5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstackDemo/server/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstackDemo/server/public/js/app.1ccce27f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstackDemo/server/public/js/app.1ccce27f.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstackDemo/server/public/js/chunk-vendors.0c5c9cd7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstackDemo/server/public/js/chunk-vendors.0c5c9cd7.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fullstackDemo/server/routes/api/posts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todoapp/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../todoapp/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todoapp/babel.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/../todoapp/babel.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todoapp/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../todoapp/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todoapp/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../todoapp/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todoapp/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../todoapp/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todoapp/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../todoapp/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todoapp/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../todoapp/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todoapp/src/assets/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/../todoapp/src/assets/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todoapp/src/components/AddTodo.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../todoapp/src/components/AddTodo.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todoapp/src/components/HelloWorld.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../todoapp/src/components/HelloWorld.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todoapp/src/components/Todo.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../todoapp/src/components/Todo.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todoapp/src/components/Todos.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../todoapp/src/components/Todos.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todoapp/src/components/layout/Header.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../todoapp/src/components/layout/Header.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todoapp/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../todoapp/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todoapp/src/router.js" beforeDir="false" afterPath="$PROJECT_DIR$/../todoapp/src/router.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todoapp/src/views/About.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../todoapp/src/views/About.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todoapp/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../todoapp/src/views/Home.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todoapp/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../todoapp/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todoapp2/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../todoapp2/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todoapp2/babel.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/../todoapp2/babel.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todoapp2/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../todoapp2/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todoapp2/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../todoapp2/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todoapp2/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../todoapp2/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todoapp2/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../todoapp2/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todoapp2/src/assets/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/../todoapp2/src/assets/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todoapp2/src/components/HelloWorld.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../todoapp2/src/components/HelloWorld.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todoapp2/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../todoapp2/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todoapp2/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../todoapp2/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/asd.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/authorform.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/bookauthors.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/bookform.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/indexs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/_alert.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/_badge.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/_breadcrumb.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/_button-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/_card.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/_carousel.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/_close.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/_code.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/_custom-forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/_dropdown.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/_functions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/_grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/_images.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/_input-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/_jumbotron.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/_list-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/_media.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/_modal.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/_nav.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/_navbar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/_pagination.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/_popover.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/_print.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/_progress.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/_reboot.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/_root.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/_spinners.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/_tables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/_toasts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/_tooltip.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/_transitions.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/_type.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/_utilities.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/bootstrap-grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/bootstrap-reboot.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/bootstrap.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/mixins/_alert.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/mixins/_background-variant.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/mixins/_badge.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/mixins/_border-radius.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/mixins/_box-shadow.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/mixins/_breakpoints.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/mixins/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/mixins/_caret.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/mixins/_clearfix.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/mixins/_deprecate.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/mixins/_float.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/mixins/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/mixins/_gradients.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/mixins/_grid-framework.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/mixins/_grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/mixins/_hover.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/mixins/_image.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/mixins/_list-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/mixins/_lists.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/mixins/_nav-divider.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/mixins/_pagination.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/mixins/_reset-text.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/mixins/_resize.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/mixins/_screen-reader.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/mixins/_size.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/mixins/_table-row.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/mixins/_text-emphasis.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/mixins/_text-hide.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/mixins/_text-truncate.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/mixins/_transition.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/mixins/_visibility.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/utilities/_align.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/utilities/_background.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/utilities/_borders.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/utilities/_clearfix.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/utilities/_display.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/utilities/_embed.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/utilities/_flex.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/utilities/_float.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/utilities/_overflow.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/utilities/_position.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/utilities/_screenreaders.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/utilities/_shadows.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/utilities/_sizing.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/utilities/_spacing.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/utilities/_stretched-link.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/utilities/_text.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/utilities/_visibility.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/css/scss/vendor/_rfs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/images/asd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/js/authorform.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/js/bookform.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/js/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/js/jquery-3.1.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/lorem.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webtech1/readme.md" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="180">
+                <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1" />
+    <option name="width" value="1602" />
+    <option name="height" value="873" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="npmExample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="npmExample" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="8.11.4" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d3b941d-afd5-43d8-98f1-e1ddfa0a189b" name="Default Changelist" comment="" />
+      <created>1581955666591</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581955666591</updated>
+      <workItem from="1581955667832" duration="1286000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1286000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="0" width="1602" height="873" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="npm" side_tool="true" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15701416" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Mongo Explorer" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="180">
+            <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

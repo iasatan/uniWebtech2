@@ -18,8 +18,8 @@ webstorm projket
 npmTestProjekt empty
 new file, index.html
 index futtattása
-test az indexbe
 index.js készítése
+alert("asd");
 js az indexbe
 
 webstorm terminál 
